@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Blake Buchalter"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Blake Buchalter"
 description              : &description "personal description"
